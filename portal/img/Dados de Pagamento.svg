@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_982" data-name="Rectangle 982" width="20" height="20" transform="translate(858 352)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_Dados_de_Pagamento" data-name=" Dados de Pagamento" transform="translate(-858 -352)" clip-path="url(#clip-path)">
+    <g id="business-and-finance" transform="translate(858 352)">
+      <path id="Path_4647" data-name="Path 4647" d="M20,.625H0V15.859H6.683A5.257,5.257,0,0,0,5.027,18.2H3.555v1.172H8.308A1.924,1.924,0,0,1,10,18.2a1.928,1.928,0,0,1,1.692,1.172h4.754V18.2H14.973a5.257,5.257,0,0,0-1.656-2.344H20ZM13.707,18.2H12.343a2.928,2.928,0,0,0-4.685,0H6.293a4.1,4.1,0,0,1,7.414,0Zm5.121-3.516H1.172V1.8H18.828Z"/>
+      <path id="Path_4648" data-name="Path 4648" d="M5.313,10a.587.587,0,0,1-.586-.586H3.555a1.761,1.761,0,0,0,1.172,1.657v1.273H5.9V11.071a1.758,1.758,0,0,0-.586-3.415A.586.586,0,1,1,5.9,7.07H7.07A1.761,1.761,0,0,0,5.9,5.413V4.141H4.727V5.413a1.758,1.758,0,0,0,.586,3.415.586.586,0,0,1,0,1.172Z"/>
+      <path id="Path_4649" data-name="Path 4649" d="M8.242,11.172h8.2v1.172h-8.2Z"/>
+      <path id="Path_4650" data-name="Path 4650" d="M8.242,7.656h8.2V8.828h-8.2Z"/>
+      <path id="Path_4651" data-name="Path 4651" d="M8.242,4.141h8.2V5.313h-8.2Z"/>
+    </g>
+  </g>
+</svg>

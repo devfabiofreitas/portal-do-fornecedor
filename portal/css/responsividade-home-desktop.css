@@ -1,0 +1,103 @@
+  @media only screen and (min-device-width: 250px) {
+      .card {
+          width: 180px !important;
+          margin-top: 10px !important;
+      }
+
+      .card-2 {
+          margin-top: 10px !important;
+      }
+  }
+
+  @media only screen and (min-device-width: 350px) {
+      .card {
+          width: 280px !important;
+          margin-top: 10px !important;
+      }
+
+      .card-2 {
+          margin-top: 10px !important;
+      }
+  }
+
+
+  @media only screen and (min-device-width: 1082px) {
+      .card {
+          width: 220px !important;
+      }
+
+      .card-2 {
+          margin-top: 10px !important;
+      }
+  }
+
+
+  @media only screen and (min-device-width: 750px) {
+      .card {
+          width: 280px !important;
+          margin-top: 10px !important;
+      }
+
+      span.subtitle {
+          font-size: 14px !important;
+      }
+
+      .card-2 {
+          margin-top: 10px !important;
+      }
+  }
+
+  @media only screen and (min-device-width: 768px) {
+      .card {
+          width: 250px !important;
+          margin-top: 10px;
+      }
+
+  }
+
+  @media only screen and (min-device-width: 802px) {
+      .card {
+          width: 210px !important;
+          margin-top: 10px;
+      }
+  }
+
+  @media only screen and (min-device-width: 1366px) {
+      .card {
+          width: 224px !important;
+      }
+
+      p.text-center {
+          text-align: center !important;
+          align-items: center !important;
+          margin: auto !important;
+          color: #FFF;
+          font-size: 28px;
+      }
+
+      span.subtitle {
+          font-size: 18px !important;
+      }
+
+      p.info-datas {
+          font-size: 16px;
+          color: #1E1E1E;
+      }
+
+      .progress {
+
+          width: 230px;
+          height: 40px;
+      }
+  }
+
+  @media only screen and (min-device-width: 1440px) {
+      .card {}
+  }
+
+  @media only screen and (min-device-width: 1920px) {
+      .card {
+          width: 360px !important;
+          height: 200px !important;
+      }
+  }

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_972" data-name="Rectangle 972" width="20" height="20" transform="translate(1145 4007)" fill="#2cabe0"/>
+    </clipPath>
+  </defs>
+  <g id="key" transform="translate(-1145 -4007)" clip-path="url(#clip-path)">
+    <g id="key_1_" data-name="key (1)" transform="translate(1145 4007)">
+      <g id="Group_861" data-name="Group 861">
+        <path id="Path_4581" data-name="Path 4581" d="M18.115,1.885A6.442,6.442,0,0,0,7.43,8.426L.172,15.685A.585.585,0,0,0,0,16.1v3.315A.586.586,0,0,0,.586,20H3.9a.585.585,0,0,0,.414-.172L5.144,19a.586.586,0,0,0,.168-.482l-.1-.89,1.234-.116a.585.585,0,0,0,.528-.528l.116-1.234.89.1a.577.577,0,0,0,.457-.144.587.587,0,0,0,.2-.438V14.18H9.7a.585.585,0,0,0,.414-.172l1.5-1.483A6.346,6.346,0,0,0,18.115,11,6.453,6.453,0,0,0,18.115,1.885ZM16.458,6.028a1.758,1.758,0,1,1,0-2.486A1.759,1.759,0,0,1,16.458,6.028Z" fill="#2cabe0"/>
+      </g>
+    </g>
+  </g>
+</svg>

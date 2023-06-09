@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_967" data-name="Rectangle 967" width="20" height="20" transform="translate(521 634)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="patrimonio2" transform="translate(-521 -634)" clip-path="url(#clip-path)">
+    <g id="box" transform="translate(521 634)">
+      <path id="Path_4569" data-name="Path 4569" d="M20,4.932a.625.625,0,0,0-.357-.5L10.264.059a.625.625,0,0,0-.529,0L.361,4.434a.625.625,0,0,0-.357.5S0,5,0,5V15.625a.625.625,0,0,0,.393.58l9.375,3.75a.625.625,0,0,0,.464,0l9.375-3.75a.625.625,0,0,0,.393-.58V5S20,4.937,20,4.932ZM10,1.315l7.8,3.641-3,1.2L6.849,2.785ZM5.325,3.5l7.826,3.32L10,8.077,2.2,4.956ZM1.25,5.923l8.125,3.25v9.279L1.25,15.2Zm9.375,12.529V9.173l8.125-3.25V15.2Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

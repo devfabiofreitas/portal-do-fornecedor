@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1001" data-name="Rectangle 1001" width="20" height="20" transform="translate(858 365)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_Dados_de_Seguro" data-name=" Dados de Seguro" transform="translate(-858 -365)" clip-path="url(#clip-path)">
+    <g id="shield" transform="translate(858 365)">
+      <g id="Group_954" data-name="Group 954">
+        <g id="Group_953" data-name="Group 953">
+          <path id="Path_4686" data-name="Path 4686" d="M18.556,1.29a.586.586,0,0,0-.514-.1A9.646,9.646,0,0,1,10.291.077a.586.586,0,0,0-.581,0,10.3,10.3,0,0,1-5.162,1.49,9.386,9.386,0,0,1-2.59-.373.586.586,0,0,0-.747.563V8.5A11.942,11.942,0,0,0,9.839,19.977a.586.586,0,0,0,.322,0A11.94,11.94,0,0,0,18.789,8.5V1.758A.586.586,0,0,0,18.556,1.29ZM17.617,8.5A10.8,10.8,0,0,1,10,18.8,10.8,10.8,0,0,1,2.383,8.5V2.508A10.737,10.737,0,0,0,10,1.257a10.737,10.737,0,0,0,7.617,1.251Z"/>
+        </g>
+      </g>
+      <g id="Group_956" data-name="Group 956">
+        <g id="Group_955" data-name="Group 955">
+          <path id="Path_4687" data-name="Path 4687" d="M11.745,8.633a2.344,2.344,0,1,0-3.49,0A4.107,4.107,0,0,0,5.9,12.344v1.172a.586.586,0,0,0,.586.586h7.031a.586.586,0,0,0,.586-.586V12.344A4.107,4.107,0,0,0,11.745,8.633ZM10,5.9A1.172,1.172,0,1,1,8.828,7.07,1.173,1.173,0,0,1,10,5.9Zm2.93,7.031H7.07v-.586a2.93,2.93,0,1,1,5.859,0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

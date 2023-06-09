@@ -1,0 +1,235 @@
+html,
+body {
+    /* background-color: white !important; */
+    /* background-image: url(../img/login/1440-900.svg);
+    background-repeat: no-repeat;
+    */
+    background-image: url(../img/login/LOGIN.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+
+
+/* .background {
+    background-image: url(../img/login/LOGIN.svg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 100%;
+} */
+
+.form-control {
+    background-color: #F2F6FF !important;
+    border-radius: 6px;
+    height: 38px;
+    -webkit-transition: 1s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+    transition: 0.5s
+}
+
+.form-control:hover {
+    border-bottom: 2px solid #2cabe0 !important;
+}
+
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    /* border: 1px solid #2CABE0 !important; */
+    border: 2px solid #A5B5BB;
+    background-color: #F2F6FF;
+    border-bottom: 2px solid #2cabe0 !important;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.login-container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.login-logo {
+    position: relative;
+    margin-left: -41.5%;
+}
+
+.login-logo img {
+    position: absolute;
+    width: 20%;
+    margin-top: 19%;
+    background: #282726;
+    border-radius: 4.5rem;
+    padding: 5%;
+}
+
+
+.login-form {
+    padding: 9%;
+    background: none;
+    /* box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 9px 26px 0 rgb(0 0 0 / 19%); */
+    margin-top: -80px;
+}
+
+.login-form h3 {
+    /* text-align: center; */
+    font-size: 30px;
+    margin-top: 0%;
+    margin-bottom: 6%;
+    color: #515151;
+    padding-bottom: 20px;
+}
+
+.btn-primary {
+    font-family: 'Cairo-Bold';
+    width: 532px;
+    height: 45px;
+    font-weight: 600;
+    width: 100%;
+    color: white;
+    border: none;
+    padding: 2%;
+    background: transparent linear-gradient(83deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box;
+    border-radius: 14px;
+    opacity: 1;
+    margin-top: 14px;
+}
+
+.btn-primary:hover {
+    filter: brightness(0.9);
+}
+
+/*Imagem do portal*/
+.portal-logo {
+    display: block;
+    left: 1247px;
+    width: 269px;
+    height: 88px;
+    margin-bottom: 85.5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-login {
+    font-weight: bold;
+    margin-top: 2%;
+    color: #4B4B4B;
+}
+
+/*Removendo autocomplete do chrome*/
+/* input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+} */
+
+/* Cor do texto do autocomplete */
+/* input:-webkit-autofill {
+    -webkit-text-fill-color: #4B4B4B !important;
+} */
+
+/* input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    border: none;
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+    border-bottom: 1px solid #F2F6FF;
+    border-radius: 0px !important;
+    width: 360px !important;
+} */
+
+/*Responsividade Desktop*/
+
+@media(max-width: 767px) {
+    body{
+        background-image: url("");
+
+    }
+}
+@media(min-width: 1024px) {
+    .background {
+        /* background-color: white !important; */
+        background-image: url(../img/login/1024-768.svg);
+        background-repeat: no-repeat;
+    }
+
+    .col-md-6.login-form {
+        margin-top: 26px;
+        margin-left: 528px;
+    }
+}
+
+@media(min-width: 1366px) {
+    .background {
+        /* background-color: white !important; */
+        background-image: url(../img/login/1366-768.svg);
+        background-repeat: no-repeat;
+    }
+
+    .col-md-6.login-form {
+        margin-top: -60px;
+        margin-bottom: 100px !important;
+        margin-left: 528px;
+    }
+
+}
+
+@media(min-width: 1440px) {
+    .background {
+        /* background-color: white !important; */
+        background-image: url(../img/login/1440-900.svg);
+        background-repeat: no-repeat;
+    }
+}
+
+@media(min-width: 1920px) {
+    .background {
+        /* background-color: white !important; */
+        background-image: url(../img/login/LOGIN.svg);
+        background-repeat: no-repeat;
+    }
+
+    img.portal-logo {
+        width: 300px !important;
+        height: 110px;
+    }
+
+    .login-form h3 {
+        font-size: 45px;
+    }
+
+    input#usuario {
+        font-size: 23px;
+    }
+
+    input#senha {
+        font-size: 23px;
+    }
+
+    button#btnLogin {
+        font-size: 20px !important;
+        height: 55px;
+        margin-top: 23px;
+    }
+
+    button.border-0.bg-transparent {
+        font-size: 20px;
+    }
+
+    .card.mt-2.mx-auto.p-4 {
+        border: none;
+    }
+}
+
+
+.background_imagem{
+    position: relative;
+    top: 18%
+}
+
+.input-icon>[class*="fa-"] {
+    right: 0 !important;
+}

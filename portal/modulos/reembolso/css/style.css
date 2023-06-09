@@ -1,0 +1,455 @@
+
+section{
+  margin-left: 3rem;
+}
+.wrapper{
+  overflow: hidden !important;
+}
+.fixed-table-toolbar{
+  display: none !important;
+}
+
+.content-title {
+  padding-left: 20px;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+#formFiltro {
+  padding-bottom: 0px !important;
+  margin-top: 3px !important;
+  padding: 0px !important;
+}
+
+#main-body{
+  margin-top: 100px;
+}
+
+#main-body-report{
+  margin-top: 80px;
+}
+
+#activeFilters {
+  padding-top: 0px !important;
+}
+
+.header-pag {
+  height: auto !important;
+  padding-bottom: 0 !important;
+  position: fixed !important;
+  padding-bottom: 0 !important;
+  z-index: 1299;
+  background: white;
+}
+
+#deleteTimesheet:disabled,
+#updateTimesheet:disabled {
+  border: 1.5px solid #A5B5BB;
+  border-radius: 8px;
+  color: #A5B5BB;
+  opacity: 1;
+}
+
+
+.btn {
+  border-radius: 8px;
+  border: 1.5px solid;
+}
+
+.btn-timesheet {
+  margin-right: 5px;
+  position: relative;
+  flex: 1;
+  width: 100px;
+  height: 28px;
+}
+
+#toolbar-timesheet {
+  text-align: center;
+  font: normal normal bold Cairo;
+  letter-spacing: 0px;
+  position: absolute;
+  right: 5%;
+}
+
+.span-black {
+  color: black;
+  /* margin: 20px 4px 4px 30px; */
+}
+
+#span-daterange, #span-daterange-hp{
+  text-transform: capitalize;
+}
+
+
+/* Modal */
+
+.swal2-container{
+  z-index: 20000 !important;
+}
+
+#modalCadastro{
+  z-index: 1400 !important;
+}
+
+.modal-grande {
+  max-width: 95% !important;
+  min-height: 90%;
+}
+
+.modal-grande .modal-content{
+  width: 80%;
+  margin: auto;
+}
+
+.modal-header {
+  background: transparent linear-gradient(75deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box;
+}
+
+.select2-selection {
+  border-radius: 1rem !important;
+  background-color: rgb(242, 246, 255) !important;
+  border: 0px !important;
+  
+}
+
+.filtersChart .select2-selection{
+  max-width: 166px;
+}
+
+
+
+.modal-body {
+  overflow-y: scroll !important;
+}
+
+@media (max-height: 300px) {
+  .modal-body {
+    overflow-y: scroll !important;
+  }
+}
+
+/* Table */
+
+#container-buttons-table{
+  align-items: center; 
+  justify-content: end;
+}
+
+#divMainTable {
+  box-shadow: none;
+}
+
+#mainTable thead tr th,
+#mainTable thead {
+  background: #F2F6FF;
+  background: #F2F6FF 0% 0% no-repeat padding-box;
+  border-radius: 18px;
+  opacity: 1;
+  margin-top: 2%;
+}
+
+#mainTable thead {
+  border-bottom: 4px #ff000000;
+  /* border-block-end-color: inherit; */
+  border-style: solid;
+}
+
+#mainTable tbody tr {
+  height: 36.4px;
+}
+
+#mainTable {
+  background: #F2F6FF 0% 0% no-repeat padding-box;
+  border-radius: 18px;
+  opacity: 1;
+}
+
+.pagination {
+  place-content: center;
+  float: none !important;
+  margin-bottom: 0px !important;
+  margin-top: 5px !important;
+}
+
+.pagination li a {
+  border-radius: 100px !important;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+  color: black;
+}
+
+.fixed-table-pagination {
+  border-top: solid 2px transparent;
+  border-image: linear-gradient(90deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%);
+  border-image-slice: 1;
+  opacity: 1;
+}
+
+#linkHorasProjeto a, #linkRelatorio a {
+  border-bottom: solid 3px transparent;
+  border-image: linear-gradient(90deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%);
+  border-image-slice: 1;
+  opacity: 1;
+}
+
+.linkTimesheet :hover {
+  border-bottom: solid 3px transparent;
+  border-image: linear-gradient(90deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%);
+  border-image-slice: 1;
+  opacity: 1;
+}
+a:not([href]):hover {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+  margin-top: auto !important;
+}
+
+
+.pagination-info {
+  display: none !important;
+}
+
+.page-list {
+  display: none !important;
+}
+
+.modal-title {
+  color: white
+}
+
+
+/* Chart */
+.body-container-chart {
+  height: 340px !important;
+  min-width: 100% !important;
+}
+
+#row-relatorio {
+  max-width: 100%;
+}
+.ctn-header, .ctn-header-atividades{
+  margin: 20px 20px 20px 20px !important;
+}
+#atividade-container{
+  margin-bottom: 100px;
+}
+.atividades-container-chart{
+  width: 96%;
+  margin-left: 25px !important;
+}
+
+.atividades-container-chart .content-body{
+  width: 100%;
+}
+
+.ctn-header-atividades{
+  min-height: 90px;
+  background-color: #F2F6FF;
+  border-radius: 2rem;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  color: #515151;
+  letter-spacing: 0px;
+  font: normal normal 900 20px/39px Cairo;
+}
+.ctn-header-item {
+  width: 360px !important;
+  min-height: 90px;
+  justify-content: center;
+  color: #515151;
+  letter-spacing: 0px;
+  font: normal normal 900 20px/39px Cairo;
+}
+
+.ctn-header div {
+  float: left;
+  width: 100%;
+  margin: 4px;
+  text-align: center;
+  font-family: 'Cairo-Bold';
+}
+
+.ctn-header {
+  padding-right: 30px;
+  background-color: #F2F6FF;
+  border-radius: 2rem;
+  display: flex;
+  width: 100%;
+  margin: auto;
+  margin-top: 15px;
+}
+
+
+
+.ctn-header-text {
+  font: normal normal normal 23px/39px Cairo;
+  letter-spacing: 0px;
+  color: #1E1E1E;
+  opacity: 1;
+}
+
+#reportrange, .filtersChart {
+  text-align: center;
+  color: black;
+  font: normal normal bold Cairo;
+  border-radius: 1rem;
+}
+
+.divSelectResponsavel{
+  display: inline-flex;
+  width: 200px;
+  margin-bottom: 6px;
+}
+.container-table{
+  margin: 0px 10px;
+}
+.select2-selection{
+  height: 25px !important
+  ;
+}
+
+.d-flex-row{
+  flex-flow: row;
+  margin: auto;
+}
+
+.flex-fl {
+  display: flex;
+  float: left;
+}
+
+.container-chart {
+  flex-direction: column !important;
+}
+
+#main-body{
+  overflow: hidden;
+}
+
+
+.container-reportrange{
+  text-align: center;
+}
+
+
+.form-row{
+  padding-bottom: 0px;
+}
+
+
+
+@media (max-width: 400px){
+  .btn-timesheet{
+    width: 60px !important;
+    margin-right: 1px;
+  }
+  .reportrange-hp{
+    width: 60px !important ;
+  }
+
+  .justify-content-end{
+    justify-content: center !important;
+  }
+}
+
+@media (max-width: 576px) { 
+  [data-field="responsavel_tecnico"], .resp_tec, [data-field="projeto"], .proj_,
+  [data-field="cliente"], .clie_  {
+    display: none;
+  } 
+
+  .btn-timesheet{
+    width: 70px !important;
+  }
+
+   /* CONTAINER */
+
+   .text-right{
+    justify-content: left !important;
+    margin-top: 10px;
+  }
+  
+  .ctn-header {
+    display: block;
+    width: 100% !important;
+  }
+
+  .ctn-header-item {
+    text-align: center !important;
+    width: 100% !important;
+    min-height: 90px;
+  }
+
+  .ctn-header-item div {
+    text-align: center;
+    float: none !important;
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 768px) { 
+  #main-body{
+    margin-top: 80px;
+  }
+  .reportrange-hp{
+    height: 28px !important;
+    margin-top: .5rem !important;
+    width: 70px;
+    border-radius: 8px !important;
+    
+    padding: 0px !important;
+    text-align: center;
+  }
+
+  #formFiltro{
+    padding-left: 0px;
+    margin-left: 0px;
+    padding: 0px !important;
+  }
+
+  #span-daterange-hp{
+    display: none;
+  }
+  .container-reportrange{
+    align-items: center!important;
+    text-align: -webkit-center;
+    border: 0px !important;
+    width: 50px;
+  }
+
+  [data-field="responsavel_tecnico"], .resp_tec, [data-field="cliente"], .clie_ {
+    display: none;
+  } 
+
+  .btn-timesheet{
+    width: 80px;
+  }
+
+  .span-black{
+    font-size: 20px !important;
+  }
+
+}
+
+@media (max-width: 992px) { 
+  #container-buttons-table{
+    align-items: center; 
+    justify-content: center !important;
+  }
+
+  .btn-timesheet{
+    width: 90px;
+  }
+
+ }
+
+.text-right{
+  justify-content: flex-end;
+}

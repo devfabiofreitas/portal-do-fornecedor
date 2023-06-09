@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_966" data-name="Rectangle 966" width="20" height="20" transform="translate(521 597)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="proposta" transform="translate(-521 -597)" clip-path="url(#clip-path)">
+    <g id="Group_856" data-name="Group 856" transform="translate(57 28)">
+      <g id="Group_855" data-name="Group 855">
+        <path id="Path_4565" data-name="Path 4565" d="M15.174,3H7.835A1.835,1.835,0,0,0,6,4.835V19.514a1.835,1.835,0,0,0,1.835,1.835H18.844a1.835,1.835,0,0,0,1.835-1.835V8.5Z" transform="translate(461 567)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_4566" data-name="Path 4566" d="M21,3V8.5h5.5" transform="translate(455.174 567)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <line id="Line_95" data-name="Line 95" x2="9.342" transform="translate(469.5 581.913)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_96" data-name="Line 96" x2="9.342" transform="translate(469.5 584.913)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+    <path id="Path_4567" data-name="Path 4567" d="M3.014-10.172v.121A2.065,2.065,0,0,0,.9-8.066c0,1.2.715,1.753,2.167,2.146v1.6a3.848,3.848,0,0,1-1.29-.564.732.732,0,0,0-.393-.131.676.676,0,0,0-.7.685.682.682,0,0,0,.343.6,5.039,5.039,0,0,0,1.985.705v.544a.52.52,0,0,0,.524.524.52.52,0,0,0,.524-.524v-.534C5.331-3.148,6.2-3.874,6.2-5S5.543-6.756,4.011-7.169V-8.7a3.856,3.856,0,0,1,.836.343.735.735,0,0,0,.353.091.671.671,0,0,0,.685-.675.678.678,0,0,0-.363-.6,4.235,4.235,0,0,0-1.461-.484v-.141a.52.52,0,0,0-.524-.524A.52.52,0,0,0,3.014-10.172Zm1.713,5.25c0,.363-.242.584-.715.655v-1.4C4.556-5.476,4.727-5.254,4.727-4.922ZM2.369-8.157c0-.322.212-.564.7-.635v1.36C2.51-7.633,2.369-7.844,2.369-8.157Z" transform="translate(525.437 610.41)" fill="#fff" stroke="#fff" stroke-width="0.08"/>
+  </g>
+</svg>

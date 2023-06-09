@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_998" data-name="Rectangle 998" width="20" height="20" transform="translate(521 597)"/>
+    </clipPath>
+  </defs>
+  <g id="_Registro_Upload" data-name=" Registro/Upload" transform="translate(-521 -597)" clip-path="url(#clip-path)">
+    <g id="Group_925" data-name="Group 925" transform="translate(57 28)">
+      <g id="Group_924" data-name="Group 924">
+        <path id="Path_4669" data-name="Path 4669" d="M15.174,3H7.835A1.835,1.835,0,0,0,6,4.835V19.514a1.835,1.835,0,0,0,1.835,1.835H18.844a1.835,1.835,0,0,0,1.835-1.835V8.5Z" transform="translate(461 567)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_4670" data-name="Path 4670" d="M21,3V8.5h5.5" transform="translate(455.174 567)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <line id="Line_104" data-name="Line 104" y2="5" transform="translate(474.5 578.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_107" data-name="Line 107" x2="8" transform="translate(470.5 585.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <g id="Group_926" data-name="Group 926" transform="translate(2 -3.825)">
+        <line id="Line_105" data-name="Line 105" y1="2.238" x2="3" transform="translate(469.5 581.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+        <line id="Line_106" data-name="Line 106" x1="3" y1="2.238" transform="translate(472.5 581.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

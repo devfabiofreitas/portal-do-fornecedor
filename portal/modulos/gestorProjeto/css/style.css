@@ -1,0 +1,96 @@
+#reportrange, .filtersChart {
+    text-align: center;
+    color: #000;
+    font: normal normal bold Cairo;
+    border-radius: 1rem;
+}
+
+.table .btn-eye.active svg path {
+    stroke: #2cabe0 !important;
+}
+.table td.icons .btn-tag.active svg path {
+    stroke: #2cabe0;
+    fill: #2cabe0;
+}
+
+
+.icon-relatorio{
+    margin-right: 0px !important;
+}
+.header-pag{
+    min-height: 0 !important;
+}
+
+#voltar{
+    background: transparent linear-gradient(75deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box
+}
+
+/* CHART */
+
+#main-body-report{
+    margin-top: -20px;
+    height: 80vh;
+    overflow-y: scroll;
+  }
+  
+  .body-container-chart {
+    height: 340px !important;
+    min-width: 100% !important;
+  }
+  
+  #row-relatorio {
+    max-width: 100%;
+  }
+  .ctn-header, .ctn-header-atividades{
+    margin: 20px 20px 20px 20px !important;
+  }
+  #atividade-container{
+    margin-bottom: 100px;
+  }
+  .atividades-container-chart{
+    width: 96%;
+    margin-left: 25px !important;
+  }
+  
+  .atividades-container-chart .content-body{
+    width: 100%;
+  }
+  
+  .ctn-header-atividades{
+    min-height: 90px;
+    background-color: #F2F6FF;
+    border-radius: 2rem;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    color: #515151;
+    letter-spacing: 0px;
+    font: normal normal 900 20px/39px Cairo;
+  }
+  .ctn-header-item {
+    width: 360px !important;
+    min-height: 90px;
+    justify-content: center;
+    color: #515151;
+    letter-spacing: 0px;
+    font: normal normal 900 20px/39px Cairo;
+  }
+  
+  .ctn-header div {
+    float: left;
+    width: 100%;
+    margin: 4px;
+    text-align: center;
+    font-family: 'Cairo-Bold';
+  }
+  
+  .ctn-header {
+    padding-right: 30px;
+    background-color: #F2F6FF;
+    border-radius: 2rem;
+    display: flex;
+    width: 100%;
+    margin: auto;
+    margin-top: 15px;
+  }

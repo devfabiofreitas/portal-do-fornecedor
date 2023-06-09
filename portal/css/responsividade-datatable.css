@@ -1,0 +1,77 @@
+@media only screen and (min-device-width: 1024px) {
+    div.dataTables_wrapper div.dataTables_filter {
+        text-align: right;
+    }
+}
+
+@media only screen and (min-device-width: 1366px) {
+    div.dataTables_wrapper div.dataTables_filter {
+        text-align: right;
+    }
+}
+
+
+@media only screen and (min-device-width: 1920px) {
+    div.dataTables_wrapper div.dataTables_filter input {
+        height: 45px !important;
+        font-size: 20px;
+    }
+
+    div.dataTables_wrapper div.dataTables_length select {
+        width: auto;
+        display: inline-block;
+        font-size: 20px;
+    }
+
+    div.dataTables_wrapper div.dataTables_filter input::placeholder {
+        margin-left: 3px;
+        text-align: left;
+        font-size: 20px !important;
+        letter-spacing: -0.6px;
+        color: #515151;
+        opacity: 1;
+    }
+
+    table.table-bordered.dataTable {
+        width: 107% !important;
+        font-size: 18px !important;
+        height: 118% !important;
+    }
+
+    /* ul.pagination {
+        margin-top: 160px !important;
+    } */
+
+    a.page-link,
+    .page-item.disabled .page-link {
+        width: 70px !important;
+        font-size: 22px !important;
+        height: 45px !important;
+    }
+
+    .button {
+        display: flex;
+        justify-content: space-around;
+        margin-left: 375px;
+        margin-top: -47px;
+        height: 45px !important;
+    }
+
+    button.btn.btn-success {
+        height: 45px;
+        font-size: 20px !important;
+    }
+
+    table.dataTable thead>tr>th.sorting,
+    table.dataTable thead>tr>th.sorting_asc,
+    table.dataTable thead>tr>th.sorting_desc,
+    table.dataTable thead>tr>th.sorting_asc_disabled,
+    table.dataTable thead>tr>th.sorting_desc_disabled,
+    table.dataTable thead>tr>td.sorting,
+    table.dataTable thead>tr>td.sorting_asc,
+    table.dataTable thead>tr>td.sorting_desc,
+    table.dataTable thead>tr>td.sorting_asc_disabled,
+    table.dataTable thead>tr>td.sorting_desc_disabled {
+        font-size: 20px !important;
+    }
+}

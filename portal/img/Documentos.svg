@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_984" data-name="Rectangle 984" width="20" height="20" transform="translate(521 597)"/>
+    </clipPath>
+  </defs>
+  <g id="Documentos" transform="translate(-521 -597)" clip-path="url(#clip-path)">
+    <g id="Group_898" data-name="Group 898" transform="translate(57 28)">
+      <g id="Group_897" data-name="Group 897">
+        <path id="Path_4645" data-name="Path 4645" d="M15.174,3H7.835A1.835,1.835,0,0,0,6,4.835V19.514a1.835,1.835,0,0,0,1.835,1.835H18.844a1.835,1.835,0,0,0,1.835-1.835V8.5Z" transform="translate(461 567)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_4646" data-name="Path 4646" d="M21,3V8.5h5.5" transform="translate(455.174 567)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <line id="Line_99" data-name="Line 99" x2="9.342" transform="translate(469.5 581.913)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_101" data-name="Line 101" x2="9.342" transform="translate(469.5 578.913)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_102" data-name="Line 102" x2="3" transform="translate(469.5 575.913)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_103" data-name="Line 103" x2="3" transform="translate(469.5 572.913)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_100" data-name="Line 100" x2="9.342" transform="translate(469.5 584.913)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

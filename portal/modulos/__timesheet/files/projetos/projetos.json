@@ -1,0 +1,19 @@
+[
+	{
+    "id_portal" : 1,
+		"codigo" : 326,
+		"Cliente_codigo" : 6,
+		"nome" : "Reunião Interna BlueShift",
+    "nomeCliente" : "BlueShift",
+		"faturavel" : "No"
+	},
+
+  {
+    "id_portal" : 2,
+		"codigo" : 323,
+		"Cliente_codigo" : 6,
+		"nome" : "Aguardando alocação em cliente",
+    "nomeCliente" : "BlueShift",
+		"faturavel" : "No"
+	}
+]

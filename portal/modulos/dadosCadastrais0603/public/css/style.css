@@ -1,0 +1,304 @@
+#btnAtualizarDadosEmpresa {
+    width: 45%;
+    font-size: 9.8px !important;
+    margin-top: 25px;
+    border: 2px solid #5bc0de;
+    color: #5bc0de;
+    position: absolute;
+
+
+}
+
+#btnAtualizarDadosEmpresa:hover {
+    border-color: #5bc0de;
+    color: white;
+    background-color: #5bc0de !important;
+
+}
+
+#btnAtualizarDadosEmpresa:focus {
+    color: rgb(255, 255, 255);
+    background-color: #5bc0de;
+    box-shadow: #5bc0de 0px 0px 0px 0.2rem;
+    border-color: #5bc0de;
+}
+
+
+.botaoDadosEmpresa {
+    position: relative;
+    bottom: -237px;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.botaoDados {
+    position: relative;
+    bottom: -397px;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.botaoSenha
+{
+    position: relative;
+    bottom: -537px;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+
+@media (max-width: 1400px) {
+    #btnAtualizarDadosEmpresa {
+    width: 45%;
+    font-size: 9.8px !important;
+    border: 2px solid #5bc0de;
+    color: #5bc0de;
+    position: inherit;
+    }
+
+    .botaoDadosEmpresa {
+        position: relative;
+        bottom: 10px;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .botaoDados {
+        position: relative;
+        bottom: -52px;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .botaoSenha
+    {
+        position: relative;
+        bottom: -186px;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .senha{
+        padding-bottom: 300px;
+    }
+    
+}
+
+
+@media (max-width: 500px) {
+
+    .botaoDadosEmpresa {
+        position: relative;
+        bottom: 10px;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .botaoDados {
+        position: relative;
+        bottom: -0px;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .botaoSenha
+    {
+        position: relative;
+        bottom: -289px;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .senha{
+        padding-bottom: 300px;
+    }
+    
+}
+
+
+
+@media (min-width: 1080px) {
+     #main-body {
+    height: 100% !important;
+} 
+ 
+}
+
+main {
+    overflow: hidden;
+} 
+
+.px-2{
+    padding-bottom: 20px !important;
+}
+
+.span-black {
+    color: black;
+}
+
+.header-pag {
+    color: black;
+}
+
+.botaosalvar {
+    position: absolute;
+    width: 100%;
+    align-items: center;
+
+}
+
+.fa-key {
+    color: #15CB76;
+}
+
+#smartwizard>.nav .nav-link.active>span.span-smart .fa-key {
+    color: white
+}
+
+
+h4 {
+    margin-top: 10px;
+
+
+}
+
+.tituloFormInvalido {
+    color: dodgerBlue;
+    font-size: 18px;
+}
+
+.campoFormInvalido {
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.btn-atualizar {
+    height: 34px;
+    border: 2px solid #15CB76;
+    border-radius: 12px;
+    opacity: 1;
+    background-color: #FFF;
+    color: #15CB76;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #15CB76;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.btn-atualizar:hover {
+    border-color: #15CB76;
+    color: white;
+    background-color: #15CB76 !important;
+}
+
+.modal-header {
+    background: transparent linear-gradient(75deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box;
+}
+
+.body-modal {
+    overflow-y: scroll !important;
+}
+
+
+.input-group-append {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 9px 8px;
+    z-index: 10;
+    border: none;
+    background: transparent;
+    outline: none;
+    transition: 0.3s;
+    color: #aaa;
+}
+
+.input-group {
+    position: relative;
+
+}
+
+.input-group input {
+    width: 100%;
+}
+
+
+
+input[type="password"]:focus {
+    border-color: dodgerBlue;
+    box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+
+.input-group-append input[type="text"]:focus+i {
+    color: dodgerBlue;
+}
+
+
+.modal-open .modal {
+    pointer-events: none;
+}
+
+input:read-only {
+    pointer-events: none;
+}
+
+@media(max-width: 800px) {
+    h1.mb-0.font-cairo-bold {
+        font-size: 18px !important;
+    }
+
+}
+
+@media (max-width: 1366px) {
+
+    .bootstrap-datetimepicker-widget,
+    .datepicker,
+    .data {
+        left: -65px !important;
+        direction: ltr;
+        z-index: 99999 !important;
+        font-size: 12px;
+
+    }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+input[type=number] {
+    -moz-appearance: textfield;
+}

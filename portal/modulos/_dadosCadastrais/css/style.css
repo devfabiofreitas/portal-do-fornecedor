@@ -1,0 +1,196 @@
+#botaoDados {
+    width: 45%;
+    font-size: 9.8px !important;
+    /* font-size: clamp(7px, 7px + 8px, 8px) !important; */
+
+    margin-top: 25px;
+    border: 2px solid #5bc0de;
+    color: #5bc0de;
+    position: absolute;
+
+    
+}
+
+
+#botaoDados:hover {
+    border-color: #5bc0de;
+    color: white;
+    background-color: #5bc0de !important;
+
+}
+
+#botaoDados:focus {
+    color: rgb(255, 255, 255);
+    background-color: #5bc0de;
+    box-shadow: #5bc0de 0px 0px 0px 0.2rem;
+    border-color: #5bc0de;
+}
+
+.span-black {
+    color: black;
+}
+
+.header-pag {
+    color: black;
+}
+
+
+.fa-key {
+    color: #15CB76;
+}
+
+#smartwizard>.nav .nav-link.active>span.span-smart .fa-key {
+    color: white
+}
+
+input[type="password"] {
+    width: 100%;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+
+
+h4 {
+    margin-top: 10px;
+    
+    
+}
+
+.tituloFormInvalido{
+    color: dodgerBlue;
+    font-size: 18px;
+}
+
+.campoFormInvalido{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.btn-atualizar {
+    height: 34px;
+    border: 2px solid #15CB76;
+    border-radius: 12px;
+    opacity: 1;
+    background-color: #FFF;
+    color: #15CB76;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #15CB76;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.btn-atualizar:hover {
+    border-color: #15CB76;
+    color: white;
+    background-color: #15CB76 !important;
+}
+
+.modal-header {
+  background: transparent linear-gradient(75deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box;
+}
+
+.body-modal{
+    overflow-y: scroll !important;
+}
+input[type="password"]:focus {
+    border-color: dodgerBlue;
+    box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+.inputWithIcon input[type="text"] {
+    padding-left: 40px;
+}
+
+.inputWithIcon {
+    position: relative;
+}
+
+.inputWithIcon i {
+    position: absolute;
+    left: 145px;
+    top: 8px;
+    padding: 9px 8px;
+    color: #aaa;
+    transition: 0.3s;
+    padding-top: 20px;
+}
+
+.inputWithIcon input[type="text"]:focus+i {
+    color: dodgerBlue;
+}
+
+.inputWithIcon.inputIconBg i {
+    background-color: #aaa;
+    color: #fff;
+    padding: 9px 4px;
+    border-radius: 4px 0 0 4px;
+}
+
+.inputWithIcon.inputIconBg input[type="text"]:focus+i {
+    color: #fff;
+    background-color: dodgerBlue;
+}
+
+.modal-open .modal {
+pointer-events: none;
+}
+
+
+input:read-only {
+    pointer-events: none;
+}
+
+input#senhaNova {
+    margin-top: 7px !important;
+}
+
+input#senhaNovaValida {
+    margin-top: 7px !important;
+}
+
+@media(max-width: 800px) {
+    h1.mb-0.font-cairo-bold {
+        font-size: 18px !important;
+    }
+ 
+}
+
+@media(max-width: 390px) {
+    .inputWithIcon i {
+        left: 115px;
+    }
+}
+
+@media(max-width: 290px) {
+    .inputWithIcon i {
+        left: 70px;
+        margin-top: 10px;
+    }
+
+    input#senhaNova {
+        margin-top: 23px !important;
+    }
+
+    input#senhaNovaValida {
+        margin-top: 23px !important;
+    }
+}
+
+
+@media (max-width: 1366px) {
+.bootstrap-datetimepicker-widget,
+.datepicker, .data {
+    left: -65px !important;
+    direction: ltr;
+    z-index: 99999 !important;
+    font-size: 12px;
+    
+}
+}

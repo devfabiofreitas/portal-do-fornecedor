@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_349" data-name="Rectangle 349" width="20" height="20" transform="translate(841 689)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="notafiscal" transform="translate(-841 -689)" clip-path="url(#clip-path)">
+    <g id="Icon_feather-file-plus" data-name="Icon feather-file-plus" transform="translate(838 687)">
+      <path id="Path_1495" data-name="Path 1495" d="M15.174,3H7.835A1.835,1.835,0,0,0,6,4.835V19.514a1.835,1.835,0,0,0,1.835,1.835H18.844a1.835,1.835,0,0,0,1.835-1.835V8.5Z" fill="none" stroke="#2cabe0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1496" data-name="Path 1496" d="M21,3V8.5h5.5" transform="translate(-5.826)" fill="none" stroke="#2cabe0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_4541" data-name="Path 4541" d="M3.288-10.11v.135A2.309,2.309,0,0,0,.923-7.756c0,1.34.8,1.96,2.422,2.4v1.791A4.3,4.3,0,0,1,1.9-4.2a.819.819,0,0,0-.439-.146.755.755,0,0,0-.777.766.762.762,0,0,0,.383.676,5.633,5.633,0,0,0,2.219.788V-1.5a.582.582,0,0,0,.586.586A.582.582,0,0,0,4.459-1.5v-.6c1.419-.158,2.388-.969,2.388-2.23S6.115-6.292,4.4-6.754V-8.466a4.311,4.311,0,0,1,.935.383.822.822,0,0,0,.394.1A.75.75,0,0,0,6.5-8.736a.757.757,0,0,0-.405-.676,4.734,4.734,0,0,0-1.633-.541v-.158a.582.582,0,0,0-.586-.586A.582.582,0,0,0,3.288-10.11ZM5.2-4.242c0,.405-.27.653-.8.732V-5.075C5.011-4.861,5.2-4.614,5.2-4.242ZM2.567-7.858c0-.36.237-.631.777-.71v1.521C2.725-7.272,2.567-7.508,2.567-7.858Z" transform="translate(9.702 20.41)" fill="#2cabe0" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

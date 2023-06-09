@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_989" data-name="Rectangle 989" width="20" height="20" transform="translate(809 352)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_Dados_Principais" data-name=" Dados Principais" transform="translate(-809 -352)" clip-path="url(#clip-path)">
+    <path id="person_1_" data-name="person (1)" d="M10,20A10,10,0,0,1,2.929,2.929,10,10,0,0,1,17.071,17.071,9.935,9.935,0,0,1,10,20ZM10,1.563A8.438,8.438,0,1,0,18.438,10,8.447,8.447,0,0,0,10,1.563Zm-.039,9.18a3.75,3.75,0,1,1,3.75-3.75A3.754,3.754,0,0,1,9.961,10.742Zm0-5.937a2.188,2.188,0,1,0,2.188,2.188A2.19,2.19,0,0,0,9.961,4.8Zm4.95,10.487a.781.781,0,0,0,.109-1.1,5.769,5.769,0,0,0-4.478-2.122H9.615a5.769,5.769,0,0,0-4.478,2.122.781.781,0,0,0,1.209.99,4.212,4.212,0,0,1,3.27-1.55h.927a4.212,4.212,0,0,1,3.27,1.55.781.781,0,0,0,1.1.109Z" transform="translate(809 352)"/>
+  </g>
+</svg>

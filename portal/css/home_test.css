@@ -1,0 +1,297 @@
+/* .content {
+    background: white;
+    width: 96vw;
+    height: 100vh;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 25px #A5B5BB29;
+    border-radius: 38px;
+    opacity: 1;
+} */
+
+div {
+    display: inline-block !important;
+}
+
+.direita {
+    width: 70%;
+    height: 100%;
+    background: red;
+}
+
+.esquerda {
+    width: 30%;
+    height: 100%;
+    background-color: blue;
+
+}
+
+/*Header da div*/
+h1.title-content {
+    margin: 20px 4px 4px 30px;
+    font-weight: bold !important;
+    color: #1A1A1A;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a #userDropdown {
+    margin: 20px 4px 4px 30px;
+}
+
+
+
+img.img-profile.rounded-circle {
+    width: 62px;
+    height: 62px;
+}
+
+.card {
+    margin-left: 10%;
+    width: 60%;
+    height: 253px;
+    background: transparent linear-gradient(75deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box;
+    border-radius: 38px;
+    opacity: 1;
+}
+
+.card-2 {
+    width: 258px !important;
+    background: #F2F6FF 0% 0% no-repeat padding-box;
+    border-radius: 38px;
+    opacity: 1;
+    height: 640px;
+}
+
+.container-cards {
+    display: flex;
+    justify-content: center;
+}
+
+
+p.text-center {
+    text-align: center !important;
+    align-items: center !important;
+    margin: auto !important;
+    color: #FFF;
+    font-size: 28px;
+}
+
+span.subtitle {
+    font-size: 18px !important;
+}
+
+h5.header-content {
+    font-size: 20px;
+    margin-top: 22px;
+    color: #1E1E1E;
+    font-weight: bold;
+}
+
+span.day {
+    margin-top: 20px;
+    color: #515151;
+    font-weight: 600;
+    margin-left: 8px;
+    text-transform: capitalize;
+}
+
+hr {
+    margin-top: 20px;
+}
+
+p.info-datas {
+    font-size: 20px;
+    color: #1E1E1E;
+}
+
+.progress {
+    margin-bottom: 20px;
+    height: 45px;
+    width: 230px;
+    margin-left: 5px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.without-progress {
+    width: 100%;
+    align-self: center;
+    text-align-last: center;
+    font-size: 15px;
+}
+
+.progress-bar {
+    border-radius: 12px;
+    font-size: 15px;
+    opacity: 1;
+    background: transparent linear-gradient(75deg, #00EBCC 0%, #10B2D3 49%, #02ABE0 72%, #0077FF 100%) 0% 0% no-repeat padding-box;
+}
+
+.btn-view-all {
+    display: flex;
+    justify-content: center;
+    width: 120px;
+    height: 49px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #515151;
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-top: 45px;
+    background-color: #F2F6FF;
+    border: 1px solid #A5B5BB;
+    border-radius: 12px;
+    margin-left: 25%;
+    margin-bottom: 12px;
+
+    text-align: center;
+    font: normal normal bold 18px/33px 'Cairo-Bold';
+    letter-spacing: 0px;
+    color: #515151;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.btn-view-all:hover {
+    color: white;
+    background: #2CABE0 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+    border: 1px solid #2CABE0;
+}
+
+/*Cards*/
+.card-body.link-nota {
+    height: 145px;
+    width: 190px;
+    margin-top: -360px;
+    display: flow-root;
+    border: 1px solid #F2F6FF;
+    margin-left: 120px;
+    border-radius: 38px;
+    background: #F2F6FF 0% 0% no-repeat padding-box;
+    cursor: pointer;
+}
+
+.card-body.link-anexo {
+    height: 145px;
+    width: 190px;
+    margin-top: -360px;
+    display: flow-root;
+    border: 1px solid #F2F6FF;
+    margin-left: 350px;
+    border-radius: 38px;
+    background: #F2F6FF 0% 0% no-repeat padding-box;
+    cursor: pointer;
+}
+
+.card-body.link-banco-horas {
+    height: 145px;
+    width: 190px;
+    margin-top: -200px;
+    display: flow-root;
+    border: 1px solid#F2F6FF;
+    margin-left: 120px;
+    border-radius: 38px;
+    background: #F2F6FF 0% 0% no-repeat padding-box;
+    cursor: pointer;
+}
+
+.card-body.link-dados {
+    height: 145px;
+    width: 190px;
+    margin-top: -200px;
+    display: flow-root;
+    border: 1px solid #F2F6FF;
+    margin-left: 350px;
+    border-radius: 38px;
+    background: #F2F6FF 0% 0% no-repeat padding-box;
+    cursor: pointer;
+}
+
+/*Imagens internas do card*/
+img.img-card {
+    height: 50px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+img.card-img2 {
+    width: 41px;
+    height: 39px;
+    margin-left: 10px;
+}
+
+h5.spanCard {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #1A1A1A;
+    opacity: 1;
+    font-weight: 600;
+}
+
+/*Responsividade Desktop*/
+@media only screen and (min-device-width: 1024px) {
+    .card {
+        margin-top: 10px;
+        margin-left: -73px;
+    }
+
+    p.text-center {
+        text-align: center !important;
+        align-items: center !important;
+        margin: auto !important;
+        color: #FFF;
+        font-size: 16px;
+    }
+
+    span.subtitle {
+        font-size: 12px !important;
+    }
+
+    img {
+        width: 210px;
+        margin-right: -5px;
+    }
+
+    .card-body.link-nota {
+        margin-left: -70px;
+        width: 150px;
+    }
+
+    img.img-card {
+        height: 50px;
+        margin-top: 5px;
+        margin-right: -70px;
+    }
+
+    .card-body.link-anexo {
+        margin-left: 80px;
+        width: 150px;
+    }
+
+    .card-body.link-banco-horas {
+        margin-left: -70px;
+        width: 150px;
+    }
+
+    .card-body.link-dados {
+        margin-left: 80px;
+        width: 150px;
+    }
+
+    p.info-datas {
+        font-size: 16px;
+        color: #1E1E1E;
+    }
+
+    .progress {
+        width: 230px;
+        height: 40px;
+    }
+
+}

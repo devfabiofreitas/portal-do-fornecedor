@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="731" height="1400" viewBox="0 0 731 1400">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_12" data-name="Retângulo 12" width="1400" height="731" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23a0d4"/>
+      <stop offset="1" stop-color="#71d0f6"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_824" data-name="Retângulo 824" width="86.269" height="76.387" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_3" data-name="Grupo de máscara 3" transform="translate(731) rotate(90)" clip-path="url(#clip-path)">
+    <g id="Grupo_32" data-name="Grupo 32" transform="translate(-764.9 -68.713) rotate(-0.974)">
+      <g id="Grupo_18" data-name="Grupo 18" transform="matrix(1, -0.017, 0.017, 1, 0, 46.74)">
+        <g id="img" transform="translate(0)">
+          <path id="Caminho_406" data-name="Caminho 406" d="M2.409,910.8,0,81.005s330.115-172,611.09-14.737,453.476,45.689,626.216,17.818,241.5,57.291,501.344,141.553c3.021,731.94,44.034,664.748-390.029,836.039S2.409,910.8,2.409,910.8Z" transform="translate(597.607 91.47)" fill="url(#linear-gradient)"/>
+          <path id="Caminho_407" data-name="Caminho 407" d="M0,912.857,2.46,83.414S333.474-90.844,613.435,64.372s453.055,42.472,625.9,13.4,241.08,55.563,500.344,137.961c-1.276,731.624,40.118,664.173-394.8,838.457S0,912.857,0,912.857Z" transform="matrix(0.999, -0.035, 0.035, 0.999, 697.128, 73.782)" opacity="0.14" fill="url(#linear-gradient)"/>
+          <path id="Caminho_408" data-name="Caminho 408" d="M0,912.952,2.46,83.51S353.267-90.84,650.022,64.3s483.822,78.869,667.015,49.742S1950.41,282.3,1950.41,282.3s-64.027,597.205-524.965,771.608S0,912.952,0,912.952Z" transform="matrix(0.999, -0.035, 0.035, 0.999, 282.912, 68.291)" opacity="0.41" fill="url(#linear-gradient)"/>
+          <path id="Caminho_409" data-name="Caminho 409" d="M0,923.216,19.511,90.71S505.612-90.7,910.933,59.57s659.929,33.7,912.569,1.118,350.529,51.017,727.061,128.61c-15.9,734.309,45.76,665.8-591.883,849.278S0,923.216,0,923.216Z" transform="translate(0 730.972) rotate(-8)" fill="#44a0c6" opacity="0.18"/>
+          <path id="Caminho_410" data-name="Caminho 410" d="M0,188.756,3.989,18.546s99.386-37.091,182.255-6.367,134.925,6.891,186.579.228S444.49,22.838,521.473,38.7c-3.251,150.133,9.355,136.12-121.013,173.638S0,188.756,0,188.756Z" transform="translate(84.829 600.43) rotate(-8)" fill="#44a0c6" opacity="0.27"/>
+          <g id="Repetição_de_grade_7" data-name="Repetição de grade 7" transform="translate(1426.22 808.315) rotate(90)" opacity="0.38" clip-path="url(#clip-path-2)">
+            <g id="Grupo_235" data-name="Grupo 235" transform="translate(0 70.386)">
+              <ellipse id="Elipse_76" data-name="Elipse 76" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_77" data-name="Elipse 77" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_78" data-name="Elipse 78" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_79" data-name="Elipse 79" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_236" data-name="Grupo 236" transform="translate(56.008 70.386)">
+              <ellipse id="Elipse_76-2" data-name="Elipse 76" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_77-2" data-name="Elipse 77" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_78-2" data-name="Elipse 78" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_79-2" data-name="Elipse 79" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_237" data-name="Grupo 237" transform="translate(0 61.385)">
+              <ellipse id="Elipse_80" data-name="Elipse 80" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_81" data-name="Elipse 81" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_82" data-name="Elipse 82" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_83" data-name="Elipse 83" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_238" data-name="Grupo 238" transform="translate(56.008 61.385)">
+              <ellipse id="Elipse_80-2" data-name="Elipse 80" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_81-2" data-name="Elipse 81" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_82-2" data-name="Elipse 82" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_83-2" data-name="Elipse 83" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_239" data-name="Grupo 239" transform="translate(0 52.384)">
+              <ellipse id="Elipse_84" data-name="Elipse 84" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_85" data-name="Elipse 85" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_86" data-name="Elipse 86" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_87" data-name="Elipse 87" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_240" data-name="Grupo 240" transform="translate(56.008 52.384)">
+              <ellipse id="Elipse_84-2" data-name="Elipse 84" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_85-2" data-name="Elipse 85" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_86-2" data-name="Elipse 86" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_87-2" data-name="Elipse 87" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_241" data-name="Grupo 241" transform="translate(0 43.382)">
+              <ellipse id="Elipse_88" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_242" data-name="Grupo 242" transform="translate(56.008 43.382)">
+              <ellipse id="Elipse_88-2" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-2" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-2" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-2" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_243" data-name="Grupo 243" transform="translate(0 34.381)">
+              <ellipse id="Elipse_88-3" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-3" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-3" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-3" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_244" data-name="Grupo 244" transform="translate(56.008 34.381)">
+              <ellipse id="Elipse_88-4" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-4" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-4" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-4" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_245" data-name="Grupo 245" transform="translate(0 25.38)">
+              <ellipse id="Elipse_88-5" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-5" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-5" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-5" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_246" data-name="Grupo 246" transform="translate(56.008 25.38)">
+              <ellipse id="Elipse_88-6" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-6" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-6" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-6" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_247" data-name="Grupo 247" transform="translate(0 16.378)">
+              <ellipse id="Elipse_88-7" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-7" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-7" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-7" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_248" data-name="Grupo 248" transform="translate(56.008 16.378)">
+              <ellipse id="Elipse_88-8" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-8" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-8" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-8" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_249" data-name="Grupo 249" transform="translate(0 7.377)">
+              <ellipse id="Elipse_88-9" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-9" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-9" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-9" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_250" data-name="Grupo 250" transform="translate(56.008 7.377)">
+              <ellipse id="Elipse_88-10" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-10" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-10" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-10" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_251" data-name="Grupo 251" transform="translate(0 -1.624)">
+              <ellipse id="Elipse_88-11" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-11" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-11" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-11" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+            <g id="Grupo_252" data-name="Grupo 252" transform="translate(56.008 -1.624)">
+              <ellipse id="Elipse_88-12" data-name="Elipse 88" cx="3" cy="3" rx="3" ry="3" transform="translate(0 0)" fill="#fff"/>
+              <ellipse id="Elipse_89-12" data-name="Elipse 89" cx="3" cy="3" rx="3" ry="3" transform="translate(10.001 0)" fill="#fff"/>
+              <ellipse id="Elipse_90-12" data-name="Elipse 90" cx="3" cy="3" rx="3" ry="3" transform="translate(20.003 0)" fill="#fff"/>
+              <ellipse id="Elipse_91-12" data-name="Elipse 91" cx="3" cy="3" rx="3" ry="3" transform="translate(30.004 0)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

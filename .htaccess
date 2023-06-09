@@ -1,0 +1,6 @@
+SetEnvIf Referer portalfornecedor.blueshift.com.br/ localreferer
+<FilesMatch \.(jpg|jpeg|png|gif|pdf|env)$>
+Order deny,allow
+Deny from all
+Allow from admin.blueshift.com.brAllow from env=localreferer 
+</FilesMatch>

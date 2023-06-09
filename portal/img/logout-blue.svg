@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_973" data-name="Rectangle 973" width="20" height="20" transform="translate(1145 4058)" fill="#2cabe0"/>
+    </clipPath>
+  </defs>
+  <g id="logout" transform="translate(-1145 -4058)" clip-path="url(#clip-path)">
+    <g id="logout-2" data-name="logout" transform="translate(1145 4058)">
+      <path id="Path_4582" data-name="Path 4582" d="M12.5,10.833a.833.833,0,0,0-.833.833V15a.834.834,0,0,1-.833.833h-2.5V3.333A1.68,1.68,0,0,0,7.2,1.749l-.247-.083h3.882a.834.834,0,0,1,.833.833V5a.833.833,0,1,0,1.667,0V2.5a2.5,2.5,0,0,0-2.5-2.5H1.875a.655.655,0,0,0-.089.018C1.746.015,1.707,0,1.667,0A1.668,1.668,0,0,0,0,1.667v15a1.68,1.68,0,0,0,1.135,1.584L6.15,19.922A1.725,1.725,0,0,0,6.667,20a1.668,1.668,0,0,0,1.667-1.667V17.5h2.5a2.5,2.5,0,0,0,2.5-2.5V11.667a.833.833,0,0,0-.833-.833Zm0,0" fill="#2cabe0"/>
+      <path id="Path_4583" data-name="Path 4583" d="M19.756,7.744,16.422,4.411A.833.833,0,0,0,15,5V7.5H11.667a.833.833,0,1,0,0,1.667H15v2.5a.833.833,0,0,0,1.422.589l3.333-3.333a.832.832,0,0,0,0-1.178Zm0,0" fill="#2cabe0"/>
+    </g>
+  </g>
+</svg>

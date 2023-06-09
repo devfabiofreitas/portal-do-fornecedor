@@ -1,0 +1,407 @@
+.bs-tooltip-auto[x-placement^=top] .arrow::before,
+.bs-tooltip-top .arrow::before {
+    display: none !important;
+}
+
+/* .slidecontainer {
+    width: 100%;
+}
+  
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 10px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+  
+.slider:hover {
+    opacity: 1;
+}
+  
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 0;
+    background: #57c0eb;
+    border-radius: 50%;
+    cursor: pointer;
+}
+  
+.slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border: 0;
+    background: #57c0eb;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.valor-slider {
+    font-weight: bold;
+    color: #d3d3d3;
+} */
+
+
+
+/* criei para o css estilizar o fundo igual do adm */
+
+.home{
+
+  background-color: rgb(242, 244, 245);
+}
+
+.body-header .header-pag {
+
+    background-color:   rgb(242, 244, 245);
+    padding-bottom: 200px;
+}
+
+.pl-4, .px-4{
+    padding-left: 1.5rem!important;
+    background-color: rgb(242, 244, 245);
+}
+
+td.text-left{
+
+    /* transform: rotate(180deg);
+    writing-mode: vertical-rl; */
+    margin: auto;
+    color:#050505;
+    font-weight: bold;
+    text-align: center !important;
+}
+
+td.text-center{
+
+    text-align: left!important;
+}
+
+
+.card-body.p-0 {
+    padding: 0 !important;
+}
+
+
+.table {
+    overflow: hidden;
+    /* overflow-x: auto; */
+}
+
+td {
+    overflow-y: hidden;
+}
+
+.table-responsive.table-container {
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+.bootstrap-table table {
+    border: none !important;
+}
+
+.bootstrap-table tr td:first-of-type {
+    border: 1px solid #dee2e6 !important;
+}
+
+.bootstrap-table th {
+    border-top: none !important;
+}
+
+.bootstrap-table th:first-of-type,
+.bootstrap-table tr td:first-of-type {
+    border-left: none !important;
+}
+
+/* .bootstrap-table th:last-of-type, .bootstrap-table tr td:last-of-type {
+    border-right: none !important;
+} */
+
+
+.bootstrap-table th {
+    border-top: solid 3px #a6b5bc !important;
+}
+
+.vertical-text {
+    /* -webkit-transform: rotate(-90deg);   
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg); */
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
+    margin: auto;
+}
+
+#resumoPerfil {
+    background-color: #fff;
+    border-radius: 15px;
+    
+
+}
+
+#resumoPerfil .logo-in-table {
+    width: 100px;
+    height: 100px;
+    min-width: 100px;
+    min-height: 100px;
+    border-radius: 15% !important;
+
+}
+
+.border-radius {
+    border-radius: 20px;
+}
+
+/* .bootstrap-table tr:last-of-type td {
+    border-bottom: solid 3px #a6b5bc !important;
+} */
+
+.card-body .table-responsive:last-of-type .bootstrap-table table:last-of-type tr:last-of-type td {
+    border-bottom: none !important;
+    margin-bottom: 20px;
+}
+
+.card {
+    border: none;
+}
+
+.slider {
+    max-width: calc(100% - 20px) !important;
+    width: calc(100% - 20px) !important;
+    /* min-width: calc(200px - 20px); */
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.slider-selection {
+    background: #57c0eb;
+    /* background: transparent !important; */
+}
+
+/* .slider-track{ */
+/* background: #57c0eb !important; */
+/* background: linear-gradient(90deg, rgba(238,27,36,1) 0%, rgba(238,27,36,1) 10%, rgba(243,112,31,1) 20%, rgba(243,112,31,1) 30%, rgba(246,143,28,1) 40%, rgba(255,193,15,1) 50%, rgba(254,241,0,1) 60%, rgba(143,253,9,1) 70%, rgba(0,169,144,1) 80%, rgba(0,147,206,1) 90%, rgba(0,147,206,1) 100%) !important; */
+/* } */
+
+.slider-handle {
+    background-color: #fff !important;
+    background-image: none !important;
+    -webkit-box-shadow: 1px 1px 24px -2px rgba(0, 0, 0, 0.75) !important;
+    -moz-box-shadow: 1px 1px 24px -2px rgba(0, 0, 0, 0.75) !important;
+    box-shadow: 1px 1px 24px -2px rgba(0, 0, 0, 0.75) !important;
+}
+
+.slider-track-high {
+    background: #ebebeb;
+}
+
+.slider-strips .slider-selection {
+    background-image: repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255, 252, 252, 0.08) 5px, rgba(252, 252, 252, 0.08) 10px) !important;
+    background-image: -ms-repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255, 252, 252, 0.08) 5px, rgba(252, 252, 252, 0.08) 10px) !important;
+    background-image: -o-repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255, 252, 252, 0.08) 5px, rgba(252, 252, 252, 0.08) 10px) !important;
+    background-image: -webkit-repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba(255, 252, 252, 0.08) 5px, rgba(252, 252, 252, 0.08) 10px) !important;
+}
+
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #484B55 !important;
+    text-align: center;
+    /* background-color: #fff !important; */
+    background-color: transparent !important;
+    border-radius: 4px;
+}
+
+.tooltip.top .tooltip-arrow {
+    display: none !important;
+}
+
+.slider .tooltip.top {
+    margin-top: -25px !important;
+}
+
+.overflow-initial {
+    overflow: initial !important;
+}
+
+.slider .tooltip.bs-tooltip-top {
+    margin-top: -10px;
+    z-index: 1;
+    font-weight: bold;
+}
+
+.style-footer {
+    border-top: solid 2px #57c0eb;
+}
+
+
+footer {
+    z-index: 9999 !important;
+}
+
+.custom-control-label::before,
+.custom-control-label::after {
+    width: 1.1rem;
+    height: 1.1rem;
+}
+
+.custom-checkbox .custom-control-label::before {
+    border-radius: 50%;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    border-color: #57c0eb;
+    background-color: #57c0eb;
+}
+
+.style-info-niveis {
+    font-size: 13.5px;
+    line-height: initial;
+}
+
+.style-info-niveis li {
+    margin-bottom: .25rem !important;
+    list-style: none;
+}
+
+.style-info-niveis li span {
+    font-size: 20px;
+}
+
+.color-senioridade-0,
+.color-senioridade-1 {
+    color: #ee1b24;
+}
+
+.color-senioridade-2 {
+    color: #ee1b24;
+}
+
+.color-senioridade-3 {
+    color: #f3701f;
+}
+
+.color-senioridade-4 {
+    color: #f68f1c;
+}
+
+.color-senioridade-5 {
+    color: #ffc10f;
+}
+
+.color-senioridade-6 {
+    color: #fef100;
+}
+
+.color-senioridade-7 {
+    color: #8ffd09;
+}
+
+.color-senioridade-8 {
+    color: #00a990;
+}
+
+.color-senioridade-9 {
+    color: #0093ce;
+}
+
+.popover-lg {
+    z-index: 5;
+}
+
+@media (min-width: 505px) {
+    .popover-lg {
+        max-width: 435px;
+    }
+}
+
+/* .bootstrap-table .fixed-table-container .table td.first-col{
+    padding: 35px 6px !important;
+} */
+.sticky-header-container {
+    left: 15px !important;
+    right: 15px !important;
+}
+
+#container-auto-avaliacao .sticky-header-container {
+    left: 1.5rem !important;
+    right: 1.5rem !important;
+}
+
+.slider.slider-horizontal .slider-tick,
+.slider.slider-horizontal .slider-handle {
+    margin-top: -2px !important;
+}
+
+@media (max-width: 767px) {
+    #salvar {
+        padding-right: 7px !important;
+        padding-left: 11px !important;
+    }
+}
+
+
+.cardDash {
+    cursor: pointer;
+    color: #ccc;
+}
+
+.cardDash:hover,
+.cardDash.active {
+    color: #484B55;
+    box-shadow: 0px 2px 5px #968d8e30;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+#modalFiltro .select2-selection {
+    background: #f2f4f5 !important;
+}
+
+#modalFiltro .select2-selection__placeholder {
+    color: #444 !important;
+}
+
+.bootstrap-table .fixed-table-container .table thead th {
+    vertical-align: bottom;
+    padding: 0;
+    margin: 0;
+    text-align: center !important;
+
+
+}
+
+#main-body {
+    max-width: 1600px;
+    margin: auto;
+    overflow-y: auto;
+    padding-bottom: 40px;
+}
+

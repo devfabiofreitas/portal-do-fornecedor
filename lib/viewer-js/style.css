@@ -1,0 +1,86 @@
+/* This is just a sample file with CSS rules. You should write your own @font-face declarations
+ * to add support for your desired fonts.
+ */
+
+/* @font-face {
+  font-family: 'Novecentowide Book';
+  src: url("/ViewerJS/fonts/Novecentowide-Bold-webfont.eot");
+  src: url("/ViewerJS/fonts/Novecentowide-Bold-webfont.eot?#iefix") format("embedded-opentype"),
+  url("/ViewerJS/fonts/Novecentowide-Bold-webfont.woff") format("woff"),
+  url("/fonts/Novecentowide-Bold-webfont.ttf") format("truetype"),
+  url("/fonts/Novecentowide-Bold-webfont.svg#NovecentowideBookBold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'exotica';
+    src: url('/ViewerJS/fonts/Exotica-webfont.eot');
+    src: url('/ViewerJS/fonts/Exotica-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/ViewerJS/fonts/Exotica-webfont.woff') format('woff'),
+         url('/ViewerJS/fonts/Exotica-webfont.ttf') format('truetype'),
+         url('/ViewerJS/fonts/Exotica-webfont.svg#exoticamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+} */
+
+#canvasContainer::-webkit-scrollbar, ::-webkit-scrollbar {
+  width: 8px !important;
+  height: 8px !important;
+}
+
+#canvasContainer::-webkit-scrollbar-track, ::-webkit-scrollbar-track {
+  background: #f8f8f8;
+}
+
+#canvasContainer::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb {
+  background: #e4e1e1;
+  border-radius: 10px;
+}
+
+
+#toolbar {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+
+#titlebar {
+  background: #fff !important;
+  border-bottom: solid 3px #2cabe0 !important;
+}
+
+#toolbarLeft {
+  position: relative !important;
+}
+
+#toolbarMiddleContainer, #toolbarMiddle {
+  right: initial !important;
+}
+
+#titlebar #documentName, .toolbarLabel, .toolbarField, .dropdownToolbarButton > select, .dropdownToolbarButton > select > option {
+  color: #484B55 !important;
+}
+
+#download.download {
+  display: none !important;
+}
+
+.toolbarButton.about {
+  display: none !important;
+}
+
+#toolbarContainer, .dropdownToolbarButton > select > option {
+  background: #fff !important;
+}
+
+.dropdownToolbarButton, .toolbarField {
+  border: 1px solid #a5b5bb !important;
+}
+
+#scaleSelectContainer {
+  border-color: #a5b5bb !important;
+}
+
+

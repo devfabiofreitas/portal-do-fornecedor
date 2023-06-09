@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="14" viewBox="0 0 18 14">
+  <g id="Group_961" data-name="Group 961" transform="translate(-951 -438)">
+    <g id="Group_958" data-name="Group 958" transform="translate(951 438)">
+      <g id="Rectangle_1004" data-name="Rectangle 1004" fill="none" stroke="#2cabe0" stroke-width="2">
+        <rect width="5" height="4" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="3" rx="1.5" fill="none"/>
+      </g>
+      <g id="Rectangle_1007" data-name="Rectangle 1007" transform="translate(6)" fill="none" stroke="#2cabe0" stroke-width="2">
+        <rect width="12" height="4" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11" height="3" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_959" data-name="Group 959" transform="translate(951 443)">
+      <g id="Rectangle_1004-2" data-name="Rectangle 1004" fill="none" stroke="#2cabe0" stroke-width="2">
+        <rect width="5" height="4" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="3" rx="1.5" fill="none"/>
+      </g>
+      <g id="Rectangle_1007-2" data-name="Rectangle 1007" transform="translate(6)" fill="none" stroke="#2cabe0" stroke-width="2">
+        <rect width="12" height="4" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11" height="3" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_960" data-name="Group 960" transform="translate(951 448)">
+      <g id="Rectangle_1004-3" data-name="Rectangle 1004" fill="none" stroke="#2cabe0" stroke-width="2">
+        <rect width="5" height="4" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="3" rx="1.5" fill="none"/>
+      </g>
+      <g id="Rectangle_1007-3" data-name="Rectangle 1007" transform="translate(6)" fill="none" stroke="#2cabe0" stroke-width="2">
+        <rect width="12" height="4" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11" height="3" rx="1.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

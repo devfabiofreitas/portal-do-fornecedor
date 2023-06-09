@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_991" data-name="Rectangle 991" width="20" height="20" transform="translate(861 609)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_Instrução_de_Faturamento" data-name=" Instrução de Faturamento" transform="translate(-861 -609)" clip-path="url(#clip-path)">
+    <g id="pie-chart" transform="translate(861 609)">
+      <g id="Group_923" data-name="Group 923">
+        <path id="Path_4668" data-name="Path 4668" d="M10,0A10,10,0,1,0,20,10,10.021,10.021,0,0,0,10,0Zm.586,1.192a8.831,8.831,0,0,1,6.735,3.88l-6.735,3.91ZM10,18.828A8.828,8.828,0,0,1,9.414,1.192V10a.587.587,0,0,0,.212.451l6.779,5.618A8.8,8.8,0,0,1,10,18.828Zm1.021-8.743,6.89-4a8.811,8.811,0,0,1-.758,9.082Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
