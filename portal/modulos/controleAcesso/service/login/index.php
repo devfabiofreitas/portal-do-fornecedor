@@ -5,7 +5,7 @@ header("Access-Control-Allow-Headers: Content-Type");
 header('Content-Type: text/html; charset=UTF-8');
 require_once('../../../../../properties.inc.php');
 require_once('../../../../../properties.db.inc.php');
-require_once(DOFMW . '/Do.class.php');
+require_once(DOFMW . 'Do.class.php');
 
 if (!isset($_POST['usuario']) || $_POST['usuario'] == '' || !isset($_POST['senha']) || $_POST['senha'] == '') {
 	echo '{"success": false, "mensagem": "Dados de login não enviados."}';
@@ -14,8 +14,10 @@ if (!isset($_POST['usuario']) || $_POST['usuario'] == '' || !isset($_POST['senha
 
 $usuario = $_POST['usuario'];
 $senha = hash('sha512', $_POST['senha']);
+//var_dump($_POST);
+//$params = $_POST['params'];
 
-$params = $_POST['params'];
+$params = [];
 
 $sqlCommand = ' SELECT ';
 $sqlCommand .= ' usuario, codigo, tentativas, situacao, TIMESTAMPDIFF(day, dataTentativa, dataHoraAtual()) AS quantidadeDias ';
