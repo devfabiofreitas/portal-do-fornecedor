@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-
+  
   CI:
   
     runs-on: ubuntu-latest
@@ -37,6 +37,6 @@ jobs:
         # path to dockerfile
         file: ./Dockerfile
         # List of tags
-        tags: renatoaugustofs/portalfornecedor:latest
+        tags: renatoaugustofs/portal:latest
         # Push to docker hub?
         push: true
