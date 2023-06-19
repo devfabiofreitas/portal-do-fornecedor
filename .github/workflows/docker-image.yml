@@ -41,6 +41,6 @@ jobs:
         # List of tags
         tags: |
           renatoaugustofs/portal:latest
-          renatoaugustofs/portal:${{ env.tagVersion }}
+          renatoaugustofs/portal:v${{ env.tagVersion }}
         # Push to docker hub?
         push: true
