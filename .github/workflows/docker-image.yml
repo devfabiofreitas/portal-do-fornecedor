@@ -40,7 +40,6 @@ jobs:
         file: ./Dockerfile
         # List of tags
         tags:
-          renatoaugustofs/portal:latest
           renatoaugustofs/portal:${{ env.tagVersion }}
         # Push to docker hub?
         push: true
