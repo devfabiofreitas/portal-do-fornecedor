@@ -44,3 +44,20 @@ jobs:
           renatoaugustofs/portal:v${{ env.tagVersion }}
         # Push to docker hub?
         push: true
+
+  CD:
+    needs: [CI]
+    runs-on: ubuntu-latest
+    steps:
+    - name: Azure WebApp
+      uses: Azure/webapps-deploy@v2.2.10
+      with:
+        # Name of the Azure Web App
+        app-name: teste-ci-cd-portal
+        # Applies to Web Apps(Windows and Linux) and Web App Containers(linux). Multi container scenario not supported. Publish profile (*.publishsettings) file contents with Web Deploy secrets
+        publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE_PORTAL_CI_CD_TESTE }}
+        # Applies to Web App Containers only: Specify the fully qualified container image(s) name. For example, 'myregistry.azurecr.io/nginx:latest' or 'python:3.7.2-alpine/'. For multi-container scenario multiple container image names can be provided (multi-line separated)
+        images: renatoaugustofs/portal:v${{ github_run_number }}
+
+    
+      
