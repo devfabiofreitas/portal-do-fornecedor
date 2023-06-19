@@ -43,3 +43,4 @@ jobs:
           renatoaugustofs/portal:${{ env.tagVersion }}
         # Push to docker hub?
         push: true
+
