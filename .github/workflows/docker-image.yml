@@ -15,6 +15,38 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+
+    - name: Create properties.db.inc.php
+      run: |
+        echo '<?php' > properties.db.inc.php
+        echo '' >> properties.db.inc.php
+        echo '/**' >> properties.db.inc.php
+        echo ' * Renomeie este arquivo para properties.db.inc.php no seu ambiente local' >> properties.db.inc.php
+        echo ' * Aponte as credenciais para os bancos de desenvolvimento' >> properties.db.inc.php
+        echo ' */' >> properties.db.inc.php
+        echo '' >> properties.db.inc.php
+        echo '$DB_APPLICATION = array();' >> properties.db.inc.php
+        echo '' >> properties.db.inc.php
+        echo '$DB_APPLICATION["portaldofornecedor"] = array(' >> properties.db.inc.php
+        echo '    "type" => "desenvolvimento",' >> properties.db.inc.php
+        echo '    "db" => "mysql",' >> properties.db.inc.php
+        echo '    "server" => "${{ secrets.MYSQL_HOST }}",' >> properties.db.inc.php
+        echo '    "port" => "3306",' >> properties.db.inc.php
+        echo '    "name" => "portaldofornecedor",' >> properties.db.inc.php
+        echo '    "user" => "${{ secrets.MYSQL_USER_PORTALDOFORNECEDOR }}",' >> properties.db.inc.php
+        echo '    "password" => "${{ secrets.MYSQL_PASSWORD_PORTALDOFORNECEDOR }}"' >> properties.db.inc.php
+        echo ');' >> properties.db.inc.php
+        echo '' >> properties.db.inc.php
+        echo '$DB_APPLICATION["administrativo"] = array(' >> properties.db.inc.php
+        echo '    "type" => "desenvolvimento",' >> properties.db.inc.php
+        echo '    "db" => "mysql",' >> properties.db.inc.php
+        echo '    "server" => "${{ secrets.MYSQL_HOST }}",' >> properties.db.inc.php
+        echo '    "port" => "3306",' >> properties.db.inc.php
+        echo '    "name" => "administrativo",' >> properties.db.inc.php
+        echo '    "user" => "${{ secrets.MYSQL_USER_ADMINISTRATIVO }}",' >> properties.db.inc.php
+        echo '    "password" => "${{ secrets.MYSQL_PASSWORD_ADMINISTRATIVO }}"' >> properties.db.inc.php
+        echo ');' >> properties.db.inc.php
+      
     
     - name: Docker Login
   # You may pin to the exact commit or the version.
