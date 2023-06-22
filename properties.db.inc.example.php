@@ -8,21 +8,21 @@
 $DB_APPLICATION = array();
 
 $DB_APPLICATION["portaldofornecedor"] = array(
-    "type" => "desenvolvimento",
-    "db" => "mysql",
-    "server" => "mysql-portalfornecedor.mysql.database.azure.com",
-    "port" => "3306",
-    "name" => "portaldofornecedor",
-    "user" => "fornecedor_dev",
-    "password" => "37ppzNbQPB"
+    "type" => "",
+    "db" => "",
+    "server" => "",
+    "port" => "",
+    "name" => "",
+    "user" => "",
+    "password" => ""
 );
 
 $DB_APPLICATION["administrativo"] = array(
-    "type" => "desenvolvimento",
-    "db" => "mysql",
-    "server" => "clockifyadmdevblueshift.mysql.database.azure.com",
-    "port" => "3306",
-    "name" => "administrativo",
-    "user" => "usr_clockify_dev@clockifyadmdevblueshift",
-    "password" => "42Xxor6AFFnV"
+    "type" => "",
+    "db" => "",
+    "server" => "",
+    "port" => "",
+    "name" => "",
+    "user" => "",
+    "password" => ""
 );
